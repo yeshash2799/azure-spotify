@@ -1,1 +1,1 @@
-# azure-spotify
+# End-To-End Spotify Azure Data Engineering Project
