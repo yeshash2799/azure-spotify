@@ -1,0 +1,9 @@
+{
+	"name": "df-yeshash-spotify",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f2fb7bea-b7c6-4ac9-a4ab-343a78919930",
+		"tenantId": "92a7628e-405d-4021-9e6e-c794f3b3bc8b"
+	}
+}
